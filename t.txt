@@ -1,2 +1,6 @@
 ok bye
+<<<<<<< HEAD
 ok bye hi hello 
+=======
+ok bye hi 
+>>>>>>> name
